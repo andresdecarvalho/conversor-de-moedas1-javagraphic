@@ -1,2 +1,3 @@
-# conversor-de-moedas1-javagraphic
- Simples conversor de moedas em Java 
+# Conversor de moedas (Real para Dólar ou Euro)
+ Simples conversor de moedas em Java de Real para Dólar ou Euro
+ <img src="imgs/realdolar.PNG">
